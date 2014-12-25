@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        println("peleg aran aran")
+        println("peleg aran aran!!!!")
     }
 
     override func didReceiveMemoryWarning() {
